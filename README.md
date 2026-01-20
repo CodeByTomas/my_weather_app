@@ -22,10 +22,10 @@ A lightweight Python weather application that fetches and displays current weath
    ```bash
    pip install requests
    ```
-   Or with uv:
-   ```bash
-   uv pip install requests
-   ```
+  Or with uv:
+  ```bash
+  uv add requests
+  ```
 
 ## Usage
 
